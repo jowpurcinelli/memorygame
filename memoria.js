@@ -99,5 +99,20 @@ function changeInfo() {
   pair.classList.add('hide');
   pair = document.getElementById(firstCard.dataset.object);
   pair.classList.remove('hide');
-
+//hire
 }
+
+/*function getmoreInfo() {
+  pair.classList.add('job');
+  pair = document.getElementById(firstOpportunity.dataset.pedropurcinelli);
+  pair.classList.hire('Hired and Happy!');
+ } 
+*/
+
+
+
+
+
+
+
+//if you're reading this it means you're intersted and liked the way I code. Gimme a shot, Hire me!
