@@ -99,7 +99,6 @@ function changeInfo() {
   pair.classList.add('hide');
   pair = document.getElementById(firstCard.dataset.object);
   pair.classList.remove('hide');
-//hire
 }
 
 /*function getmoreInfo() {
