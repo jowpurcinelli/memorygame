@@ -1,5 +1,6 @@
 const cards = document.querySelectorAll('.memory-card');
 const button = document.querySelector("button")
+// const english = document.querySelector("english")
 let hasFlippedCard = false;
 let lockBoard = false;
 let firstCard, secondCard;
@@ -59,6 +60,20 @@ function resetBoard() {
   [hasFlippedCard, lockBoard] = [false, false];
   [firstCard, secondCard] = [null, null];
 }
+
+
+/*
+
+english.addEventListener('click', englishPage)
+
+
+function englishPage(target) {
+    location.href='indexEN.html';
+}
+*/
+
+
+
 
 function shuffle() {
     cards.forEach(card => {
