@@ -101,6 +101,38 @@ function changeInfo() {
   pair.classList.remove('hide');
 }
 
+//the following function is being created with the purpose of scroll the page into another html page
+/*
+function yHandler(){
+  const wrap = document.getElementById('wrap');
+  const contentHeight = wrap.offsetHeight;
+  const yOffset = window.pageYOffset; 
+  const y = yOffset + window.innerHeight;
+  if(y >= contentHeight){
+  // Ajax call to get more dynamic data goes here
+  wrap.innerHTML += '<div class="newData"></div>';
+}
+var status = document.getElementById('status');
+status.innerHTML = contentHeight+" | "+y;
+}
+window.onscroll = yHandler;
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
 /*function getmoreInfo() {
   pair.classList.add('job');
   pair = document.getElementById(firstOpportunity.dataset.pedropurcinelli);
