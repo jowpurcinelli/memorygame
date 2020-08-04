@@ -6,7 +6,7 @@ This is a game developed to help people understand the power of recycling throug
 
 In this project, I was able to understand a lot of JavaScript concepts, also, working a lot with CSS natively.
 It was part of my self-education as a Developer.
-Developed in 2019
+Coded in 2019
 
 
 
