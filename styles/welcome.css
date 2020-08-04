@@ -85,3 +85,6 @@ header a{
     padding: 10px;
     justify-content: space-around ;
 }
+#Welcome1{
+    position: fixed;
+}
