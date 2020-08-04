@@ -2,13 +2,18 @@
 
 This is a game developed to help people understand the power of recycling through a easy going game.
 
+### What I learned
+
+In this project, I was able to understand a lot of JavaScript concepts, also, working a lot with CSS natively.
+It was part of my self-education as a Developer.
+Developed in 2019
 
 
 
-## Technologies used
+
+### Technologies used
 
 
-The project still under development so, for now, the techs used are:
 
 - HTML5
 - CSS3
