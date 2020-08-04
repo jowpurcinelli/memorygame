@@ -105,7 +105,7 @@ main .aside2 button {
 
 main .aside2 button:disabled{
     background-color: var(--title-color);
-    color: rgb(62, 68, 61);
+    color: rgb(0, 0, 0);
     transition: background-color 400ms;
 }
 
